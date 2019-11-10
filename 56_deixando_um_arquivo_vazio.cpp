@@ -8,7 +8,7 @@ int main(int argc, char const *argv[])
 {
     ofstream file("text/clean.txt");
 
-    file << "";
+    file << ""; 
 
     file.close();
 
