@@ -14,7 +14,7 @@ struct Fruta
 
 int main(int argc, char const *argv[])
 {
-    Fruta *fruta = new Fruta;
+    Fruta *fruta = new Fruta; 
 
     fruta->cor = "amarelo";
     fruta->nome = "banana";
