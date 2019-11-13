@@ -104,3 +104,4 @@ bool Pop(int *pilha, int *topo, int *valorRetirado) {
 
     return true;    
 }
+
